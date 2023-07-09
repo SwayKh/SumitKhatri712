@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🎓 CSE Undergrad '26<br>☕ Loves Coffee
+🎓 My name is Sumit Khatri<br>☕ Loves Coffee
 
 # 💻 Tech Stack:
 <div>
