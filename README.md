@@ -33,7 +33,6 @@
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SwayKh&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SwayKh&theme=nord_dark)
 
-![](https://github-readme-stats.vercel.app/api?username=SwayKh&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwayKh&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SwayKh&theme=highcontrast&hide_border=true)<br/>
 
 
