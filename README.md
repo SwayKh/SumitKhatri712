@@ -31,13 +31,19 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SwayKh&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SwayKh&theme=nord_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SwayKh&theme=highcontrast&hide_border=true)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayKh&theme=highcontrast&hide_border=true" width="2000">
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SwayKh&theme=nord_dark" width="700"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SwayKh&theme=nord_dark" width="700"</td>
+  </tr>
+</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swaykh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="2000">
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SwayKh&icon=2&color=12)](https://visitcount.itsvg.in)
