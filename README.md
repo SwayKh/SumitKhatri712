@@ -32,7 +32,7 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayKh&theme=highcontrast&hide_border=true" width="2000">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayKh&theme=nord&hide_border=true" width="2000">
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SwayKh&theme=nord_dark" width="700"></td>
