@@ -39,7 +39,10 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SwayKh&theme=nord_dark" width="700"</td>
   </tr>
 </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swaykh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="2000">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=swaykh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="2000"> -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swaykh&bg_color=2e3440&color=ffffff&line=81a1c1&point=8fbcbb&area=true&hide_border=true" width="2000">
+
 
 
 ### ✍️ Random Dev Quote
