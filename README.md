@@ -45,7 +45,7 @@
 </table>
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=swaykh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="2000"> -->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swaykh&theme=nord_dark" width="2000">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swaykh&theme=nord_dark" width="2000" height="1000">
 
 
 
